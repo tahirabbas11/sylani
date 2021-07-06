@@ -1,0 +1,369 @@
+*{
+    font-family: Arial, Helvetica, sans-serif,;
+}
+
+.first
+ {
+     background-color: #2655e8;
+
+    
+}
+.donor
+{
+
+    color:green; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    cursor: pointer;
+    transition: all 0.2sec linear;
+}
+.donor:hover,
+.donor:focus{
+ background-color:#edebeb 
+}
+.donate
+{
+
+    color:green; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    cursor: pointer;
+    transition: all 0.2sec linear;
+}
+.donate:hover,
+.donate:focus{
+ background-color:#edebeb; 
+}
+.fee
+{
+
+    color:green; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    cursor: pointer;
+    transition: all 0.2sec linear;
+}
+.fee:hover,
+.fee:focus{
+ background-color:#edebeb; 
+}
+
+.btn1{
+    
+    position: relative;
+    bottom: 2em;
+    color: white; 
+    text-decoration-color: white; 
+    background-color: #2655e8;     
+    border: thick; cursor: pointer; 
+    height: 35px; width: 70px;  
+    margin-top: 20px; margin-left: 250px; 
+    border-radius: 25px ;
+    font-size: 11px; 
+    font-family: 'Open Sans', sans-serif;
+}
+.btn2
+{
+
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;  
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 70px;  
+    margin-top: 21px; margin-left: -2px; 
+    border-radius: 25px ; 
+    cursor: pointer;
+
+    position: relative;
+    bottom: 2em;}
+.btn2:hover,
+.btn2:focus{
+ background-color:rgb(223, 219, 219);
+}
+
+.btn3
+{
+
+    font-size: 11px; 
+    font-family: 'Open Sans', sans-serif;
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 100px;  
+    margin-top: 21px; margin-left: 8px; 
+    border-radius: 25px ; 
+    position: relative;
+    bottom: 2em;
+}
+.btn3:hover,
+.btn3:focus{
+ background-color:rgb(223, 219, 219);
+}
+.btn4
+{
+    font-size: 11px; 
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    bottom: 2em;
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 100px;  
+    margin-top: 21px; margin-left: 8px; 
+    border-radius: 25px ; 
+}
+.btn4:hover,
+.btn4:focus{
+ background-color:rgb(223, 219, 219);
+}
+.btn5
+{
+    position: relative;
+    bottom: 2em;
+    color: black; 
+    font-size: 11px;
+    font-family: 'Open Sans', sans-serif; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 100px;  
+    margin-top: 21px; margin-left: 8px; 
+    position: relative;
+    bottom: 1px;
+    border-radius: 25px ; 
+    position: relative;
+    bottom: 2em;
+}
+.btn5:hover,
+.btn5:focus{
+ background-color:rgb(223, 219, 219);
+}
+.btn6
+{
+
+    color: black; 
+    font-size: 11px;
+    font-family: 'Open Sans', sans-serif; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 70px;  
+    margin-top: 21px; margin-left: 15px; 
+    border-radius: 25px ;
+    position: relative;
+    bottom: 2em;
+    
+     
+}
+.btn6:hover,
+.btn6:focus{
+ background-color:rgb(223, 219, 219);
+}
+.btn7
+{
+    position: relative;
+    font-size: 10px; 
+    bottom: 2em;
+     color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 70px;  
+    margin-top: 21px; margin-left: -2px; 
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 25px ; 
+}
+.btn7:hover,
+.btn7:focus{
+ background-color:rgb(223, 219, 219);
+}
+.btn8
+{
+
+    color: black; 
+    font-size: 11px;
+    font-family: 'Open Sans', sans-serif; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 60px;  
+    margin-top: 21px; margin-left: -2px; 
+    border-radius: 25px ; 
+    position: relative;
+    bottom: 2em;
+}
+.trd{
+    background-color: #2655e8;
+    color: white;
+    
+    
+
+}
+.btn8:hover,
+.btn8:focus{
+ background-color:rgb(223, 219, 219);
+}
+.para
+{
+
+    font-size: 10px; 
+    margin-left: 250px;
+        margin-top: -5px;
+        margin-right: 180px;
+        line-height: 1.7;
+        color: #666666;
+        font-size: 13px;
+        font-family: 'Open Sans', sans-serif;
+        background-color: #fff;
+}
+.last
+{
+    font-size: 10px;
+    background-color: #2655e8;
+    font-family: 'Bona Nova', serif;
+   
+}
+.data
+{
+    font-size: 60px;
+    background-color: #2655e8;
+    font-family: 'Bona Nova', serif;
+ 
+
+
+}
+
+.txtw
+{
+    display: inline-block; 
+    color:white;
+    margin-left: 85px;
+    margin-top: 5px;
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    position: relative;
+    bottom: 4em;
+    left: 1.5em;
+
+    
+
+}
+.txtg
+{
+    font-size: 15px;
+    color: rgb(14, 231, 14);
+ display: inline-block;
+
+ position: relative;
+ bottom: 4em;
+ left:1.5em;
+}
+.box
+{
+    position: relative;
+    width: 300x;
+    height: 80px;
+   
+    display: inline-block;
+    box-shadow: 0px 0px 15px -5px;
+   left: 160px;
+   font-family: 'Merriweather', serif;
+   margin: 8px;
+   font-size: 20px;
+}
+   
+.box2
+{
+    position: relative;
+    width: 290px;
+    height: 63px;
+   
+    display: inline-block;
+    left: 160px;
+   font-family: 'Merriweather', serif;
+   margin: 8px;
+   font-size: 15px;
+   background-color: #ebf2ff;
+   
+
+}
+.up
+{
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    color: #7e7e7e;
+    font-size: 13px;
+    left:65em;
+    bottom:11em;
+  
+}
+.cont
+{
+    width:100%;
+    padding: 40px;
+    margin: 130px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+.bx
+{
+    width: 150px;
+    margin: 0 1px;
+    box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+    transition: 1s;
+   
+
+}
+.bx img
+{
+    display: block;
+    width: 100%;
+    border-radius: 0px;
+
+}
+.bx:hover
+{
+   transform:scale(2);
+   z-index: 2;
+}
+.info
+{
+    line-height: 1.7;
+    color: white;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+    position: relative;
+   
+    background-color: rgb(37, 39, 46) !important;
+}
+.info1
+{
+    line-height: 1.7;
+    color: #666666;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+    position: relative;
+    left:10px;
+    background-color: rgb(37, 39, 46) !important;
+}
+.info2
+{
+    line-height: 1.7;
+    color: #666666;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+    position: relative;
+    left:10px;
+    background-color: rgb(37, 39, 46) !important;
+
+}
